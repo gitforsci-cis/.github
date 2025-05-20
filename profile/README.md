@@ -2,8 +2,7 @@
 
 ## About this workshop
 
-Welcome to the GitHub organisation for PhD students in the **Computational and Information Sciences (CIS) group at ETH Zurich**!  
-This organisation was established for a workshop on modern collaborative research workflows using **Git**, **GitHub**, and **RStudio**. The workshop is hosted on 27th May 2025.
+Welcome to the GitHub organisation for PhD students in the Center for Comparative and International Studies (CIS) at ETH Zurich.  This organisation was established for a workshop on modern collaborative research workflows using **Git**, **GitHub**, and **RStudio**. The workshop is hosted on 27th May 2025.
 
 ## Workshop website
 
